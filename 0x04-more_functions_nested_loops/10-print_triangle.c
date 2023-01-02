@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * rint_triangle - entry point
+ * print_triangle - entry point
  * owned by usman suraj/Bright Daniel
  * Description: Prints diagonals
  * @size: size of the triangle
